@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "c77bc34a87c7d3c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7565b52d0cf94056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073d232015cd52d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "335cf82759eada33",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1fa75767bb00aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22333524ec21bfe9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01d481533de66515",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "044c7be0e6f04a87",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b3271dac7152da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d19f5148feffd3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20ca0dec2713f682",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c5418c93289faad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2777335e3fdcc32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "22333524ec21bfe9",
+  "lastOpenFiles": [
+    "notas-hacking/notas-hacking/retos-bandit/Screenshot 2024-09-08 at 10.32.31 p.m..png",
+    "notas-hacking/notas-hacking/retos-bandit/Level 3-4.md",
+    "notas-hacking/notas-hacking/retos-bandit/Level 0-1.md",
+    "notas-hacking/notas-hacking/retos-bandit/Screenshot 2024-09-07 at 4.00.55 p.m..png",
+    "notas-hacking/Captura instalacion.PNG",
+    "notas-hacking/notas-hacking/picoCTF",
+    "Sin nombre",
+    "notas-hacking/notas-hacking/README.md",
+    "notas-hacking/notas-hacking/retos-bandit/Screenshot 2024-08-22 at 8.10.34 p.m..png"
+  ]
+}
