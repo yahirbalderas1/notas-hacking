@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 33-34.md",
+                "file": "picoCTF/1.4 Blame Game.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 33-34.md",
+                "file": "picoCTF/1.4 Blame Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 33-34.md",
+                "file": "picoCTF/1.4 Blame Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 33-34.md"
+                "file": "picoCTF/1.4 Blame Game.md"
               }
             }
           }
@@ -173,8 +173,12 @@
   },
   "active": "b7e9c104a988e3c8",
   "lastOpenFiles": [
-    "retos-bandit/plantilla.md",
+    "picoCTF/3.3 First grep.md",
+    "picoCTF/3.4 Nice netcat.md",
+    "picoCTF/1.5 Colaborative Development.md",
+    "picoCTF/4.5 Permissions.md",
     "retos-bandit/Level 33-34.md",
+    "retos-bandit/plantilla.md",
     "retos-bandit/Level 32-33.md",
     "Screenshot 2024-09-07 at 3.49.53 p.m..png",
     "retos-bandit/Level 20-21.md",
@@ -205,10 +209,6 @@
     "retos-bandit/Level 16-17.md",
     "retos-bandit/Level 14-15.md",
     "retos-bandit/Level 13-14.md",
-    "retos-bandit/Level 12-13.md",
-    "retos-bandit/Level 11-12.md",
-    "retos-bandit/Level 10-11.md",
-    "retos-bandit/Level 9-10.md",
     "Sin nombre",
     "retos-bandit/Sin título.canvas",
     "retos-bandit",
