@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1.4 Blame Game.md",
+                "file": "picoCTF/picoWeb/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/1.4 Blame Game.md",
+                "file": "picoCTF/picoWeb/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/1.4 Blame Game.md",
+                "file": "picoCTF/picoWeb/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/1.4 Blame Game.md"
+                "file": "picoCTF/picoWeb/JaWT Scratchpad.md"
               }
             }
           }
@@ -173,6 +173,18 @@
   },
   "active": "b7e9c104a988e3c8",
   "lastOpenFiles": [
+    "picoCTF/plantilla.md",
+    "picoCTF/picoWeb/JaWT Scratchpad.md",
+    "picoCTF/picoWeb/Irish-Name-Repo 3.md",
+    "picoCTF/picoWeb/Irish-Name-Repo 2.md",
+    "picoCTF/picoWeb/Irish-Name-Repo 1.md",
+    "picoCTF/1.10 Time Machine.md",
+    "picoCTF/picoWeb",
+    "picoCTF/2.2 convertme.py.md",
+    "picoCTF/2.4 fixme2.py.md",
+    "picoCTF/2.5 Glitch cat.md",
+    "picoCTF/1.6 Commitment Issues.md",
+    "picoCTF/1.4 Blame Game.md",
     "picoCTF/3.3 First grep.md",
     "picoCTF/3.4 Nice netcat.md",
     "picoCTF/1.5 Colaborative Development.md",
@@ -193,22 +205,11 @@
     "Screenshot 2024-09-07 at 3.56.42 p.m..png",
     "retos-bandit/Level 25-26.md",
     "Screenshot 2024-09-07 at 3.54.53 p.m..png",
-    "retos-bandit/Level 24-25.md",
-    "retos-bandit/Level 23-24.md",
     "Screenshot 2024-09-07 at 3.42.37 p.m..png",
-    "retos-bandit/Level 22-23.md",
     "Screenshot 2024-09-07 at 3.37.05 p.m..png",
-    "retos-bandit/Level 21-22.md",
     "Screenshot 2024-09-03 at 10.22.19 p.m..png",
     "Screenshot 2024-09-03 at 10.17.33 p.m..png",
-    "retos-bandit/Level 19-20.md",
     "Screenshot 2024-09-03 at 10.14.41 p.m..png",
-    "retos-bandit/Level 18-19.md",
-    "retos-bandit/Level 17-18.md",
-    "retos-bandit/Level 15-16.md",
-    "retos-bandit/Level 16-17.md",
-    "retos-bandit/Level 14-15.md",
-    "retos-bandit/Level 13-14.md",
     "Sin nombre",
     "retos-bandit/Sin título.canvas",
     "retos-bandit",
