@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoWeb/Scavenger hunt.md",
+                "file": "picoCTF/picoWeb/Trickster.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/picoWeb/Scavenger hunt.md",
+                "file": "picoCTF/picoWeb/Trickster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/picoWeb/Scavenger hunt.md",
+                "file": "picoCTF/picoWeb/Trickster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/picoWeb/Scavenger hunt.md"
+                "file": "picoCTF/picoWeb/Trickster.md"
               }
             }
           }
@@ -173,7 +173,19 @@
   },
   "active": "b7e9c104a988e3c8",
   "lastOpenFiles": [
+    "Screenshot 2024-10-01 at 11.05.49 p.m..png",
+    "Screenshot 2024-10-01 at 11.04.34 p.m..png",
+    "Screenshot 2024-10-01 at 11.03.58 p.m..png",
+    "Screenshot 2024-10-01 at 11.02.05 p.m..png",
     "picoCTF/plantilla.md",
+    "picoCTF/picoWeb/Trickster.md",
+    "picoCTF/picoWeb/SOAP.md",
+    "picoCTF/picoWeb/Most cookies.md",
+    "Screenshot 2024-10-01 at 10.49.10 p.m..png",
+    "Screenshot 2024-10-01 at 10.49.50 p.m..png",
+    "picoCTF/picoWeb/Match The Regex.md",
+    "Screenshot 2024-10-01 at 10.45.49 p.m..png",
+    "Screenshot 2024-10-01 at 10.44.50 p.m..png",
     "picoCTF/picoWeb/Scavenger hunt.md",
     "picoCTF/picoWeb/get aHead.md",
     "picoCTF/picoWeb/Cookies.md",
@@ -196,20 +208,8 @@
     "retos-bandit/plantilla.md",
     "retos-bandit/Level 32-33.md",
     "Screenshot 2024-09-07 at 3.49.53 p.m..png",
-    "retos-bandit/Level 20-21.md",
-    "retos-bandit/Level 31-32.md",
-    "retos-bandit/Level 30-31.md",
-    "retos-bandit/Level 29-30.md",
-    "retos-bandit/Level 28-29.md",
     "Screenshot 2024-09-08 at 10.32.31 p.m..png",
     "Screenshot 2024-09-07 at 4.00.55 p.m..png",
-    "Screenshot 2024-09-07 at 3.56.42 p.m..png",
-    "Screenshot 2024-09-07 at 3.54.53 p.m..png",
-    "Screenshot 2024-09-07 at 3.42.37 p.m..png",
-    "Screenshot 2024-09-07 at 3.37.05 p.m..png",
-    "Screenshot 2024-09-03 at 10.22.19 p.m..png",
-    "Screenshot 2024-09-03 at 10.17.33 p.m..png",
-    "Screenshot 2024-09-03 at 10.14.41 p.m..png",
     "Sin nombre",
     "retos-bandit/Sin título.canvas",
     "retos-bandit",
