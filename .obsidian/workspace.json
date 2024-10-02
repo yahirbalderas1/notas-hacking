@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/4.10 Useless.md",
+                "file": "notas-hacking/picoCTF forensic/What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas-hacking/picoCTF/4.10 Useless.md",
+                "file": "notas-hacking/picoCTF forensic/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas-hacking/picoCTF/4.10 Useless.md",
+                "file": "notas-hacking/picoCTF forensic/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas-hacking/picoCTF/4.10 Useless.md"
+                "file": "notas-hacking/picoCTF forensic/What Lies Within.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "073d232015cd52d8",
   "lastOpenFiles": [
+    "notas-hacking/picoCTF forensic/plantilla.md",
+    "notas-hacking/picoCTF forensic/What Lies Within.md",
+    "notas-hacking/picoCTF forensic/Extensions.md",
+    "notas-hacking/picoCTF forensic/Shark on wire.md",
+    "notas-hacking/picoCTF forensic/So Meta.md",
+    "notas-hacking/picoCTF forensic/Glory of the garden.md",
     "notas-hacking/picoCTF/plantilla.md",
     "notas-hacking/picoCTF/4.10 Useless.md",
+    "notas-hacking/picoCTF forensic",
     "notas-hacking/picoCTF/4.9 Special.md",
     "notas-hacking/picoCTF/4.8 Serpentine.md",
     "notas-hacking/picoCTF/4.7 PW crack 3.md",
@@ -168,13 +175,7 @@
     "notas-hacking/picoCTF/3.4 Nice netcat.md",
     "notas-hacking/picoCTF/3.3 First grep.md",
     "notas-hacking/picoCTF/3.2 Bases.md",
-    "notas-hacking/picoCTF/3.1 2Warm.md",
-    "notas-hacking/picoCTF/2.10 Tab, Tab, Attack.md",
     "notas-hacking/picoCTF/Captura-kali.PNG",
-    "notas-hacking/picoCTF/2.9 runme.py.md",
-    "notas-hacking/picoCTF/2.8 PW crack 2.md",
-    "notas-hacking/picoCTF/2.7 PW crack 1.md",
-    "notas-hacking/picoCTF/2.6 Magikarp Ground Mission.md",
     "notas-hacking/Captura instalacion.PNG",
     "notas-hacking/notas-hacking/retos-bandit/Screenshot 2024-09-08 at 10.32.31 p.m..png",
     "notas-hacking/notas-hacking/retos-bandit/Screenshot 2024-09-07 at 4.00.55 p.m..png",
