@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/Shark on wire 2.md",
+                "file": "notas-hacking/picoCTF forensic/WebNet1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/Shark on wire 2.md",
+                "file": "notas-hacking/picoCTF forensic/WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/Shark on wire 2.md",
+                "file": "notas-hacking/picoCTF forensic/WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/Shark on wire 2.md"
+                "file": "notas-hacking/picoCTF forensic/WebNet1.md"
               }
             }
           }
@@ -148,7 +148,12 @@
   },
   "active": "073d232015cd52d8",
   "lastOpenFiles": [
+    "notas-hacking/picoCTF forensic/WebNet0.md",
+    "notas-hacking/picoCTF forensic/WebNet1.md",
     "notas-hacking/picoCTF forensic/plantilla.md",
+    "notas-hacking/picoCTF forensic/MacroHard WeakEdge.md",
+    "notas-hacking/picoCTF forensic/tunn3l v1s10n.md",
+    "notas-hacking/picoCTF forensic/Matryoshka.md",
     "notas-hacking/picoCTF forensic/Shark on wire 2.md",
     "notas-hacking/picoCTF forensic/like1000.md",
     "notas-hacking/picoCTF forensic/Moonwalk.md",
@@ -170,11 +175,6 @@
     "notas-hacking/picoCTF/4.4 chrono.md",
     "notas-hacking/picoCTF/4.3 Based.md",
     "notas-hacking/picoCTF/4.2 ASCII Numbers.md",
-    "notas-hacking/picoCTF/4.1 Lets Warm Up.md",
-    "notas-hacking/picoCTF/3.10 What's a netcat.md",
-    "notas-hacking/picoCTF/3.9 Wave a flag.md",
-    "notas-hacking/picoCTF/3.8 Warmed up.md",
-    "notas-hacking/picoCTF/3.7 strings it.md",
     "notas-hacking/picoCTF/Captura-kali.PNG",
     "notas-hacking/Captura instalacion.PNG",
     "notas-hacking/notas-hacking/retos-bandit/Screenshot 2024-09-08 at 10.32.31 p.m..png",
