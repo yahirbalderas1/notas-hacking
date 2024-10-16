@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/Operation oni.md",
+                "file": "notas-hacking/PicoCTF Crypto/waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/Operation oni.md",
+                "file": "notas-hacking/PicoCTF Crypto/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/Operation oni.md",
+                "file": "notas-hacking/PicoCTF Crypto/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/Operation oni.md"
+                "file": "notas-hacking/PicoCTF Crypto/waves over lambda.md"
               }
             }
           }
@@ -148,11 +148,22 @@
   },
   "active": "073d232015cd52d8",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF forensic/Disk disk sleuth.md",
+    "notas-hacking/PicoCTF Crypto/plantilla.md",
+    "notas-hacking/PicoCTF Crypto/waves over lambda.md",
+    "notas-hacking/PicoCTF Crypto/Tapping.md",
+    "notas-hacking/PicoCTF Crypto/la cifra de.md",
+    "notas-hacking/PicoCTF Crypto/The numbers.md",
+    "notas-hacking/PicoCTF Crypto/caesar.md",
+    "notas-hacking/PicoCTF Crypto/13.md",
+    "notas-hacking/PicoCTF Crypto/Easy1.md",
+    "notas-hacking/picoCTF forensic/plantilla.md",
     "notas-hacking/picoCTF forensic/Operation oni.md",
+    "notas-hacking/PicoCTF Crypto",
+    "notas-hacking/Sin título.md",
+    "notas-hacking/picoCTF/Sin título.md",
+    "notas-hacking/picoCTF forensic/Disk disk sleuth.md",
     "notas-hacking/picoCTF forensic/WebNet1.md",
     "notas-hacking/picoCTF forensic/WebNet0.md",
-    "notas-hacking/picoCTF forensic/plantilla.md",
     "notas-hacking/picoCTF forensic/MacroHard WeakEdge.md",
     "notas-hacking/picoCTF forensic/tunn3l v1s10n.md",
     "notas-hacking/picoCTF forensic/Matryoshka.md",
@@ -164,17 +175,7 @@
     "notas-hacking/picoCTF forensic/What Lies Within.md",
     "notas-hacking/picoCTF forensic/Extensions.md",
     "notas-hacking/picoCTF forensic/Shark on wire.md",
-    "notas-hacking/picoCTF forensic/So Meta.md",
-    "notas-hacking/picoCTF forensic/Glory of the garden.md",
-    "notas-hacking/picoCTF/plantilla.md",
-    "notas-hacking/picoCTF/4.10 Useless.md",
     "notas-hacking/picoCTF forensic",
-    "notas-hacking/picoCTF/4.9 Special.md",
-    "notas-hacking/picoCTF/4.8 Serpentine.md",
-    "notas-hacking/picoCTF/4.7 PW crack 3.md",
-    "notas-hacking/picoCTF/4.6 plumbing.md",
-    "notas-hacking/picoCTF/4.5 Permissions.md",
-    "notas-hacking/picoCTF/4.4 chrono.md",
     "notas-hacking/picoCTF/Captura-kali.PNG",
     "notas-hacking/Captura instalacion.PNG",
     "notas-hacking/notas-hacking/retos-bandit/Screenshot 2024-09-08 at 10.32.31 p.m..png",
