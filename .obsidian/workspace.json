@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/WebNet1.md",
+                "file": "notas-hacking/picoCTF forensic/Operation oni.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/WebNet1.md",
+                "file": "notas-hacking/picoCTF forensic/Operation oni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/WebNet1.md",
+                "file": "notas-hacking/picoCTF forensic/Operation oni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas-hacking/picoCTF forensic/WebNet1.md"
+                "file": "notas-hacking/picoCTF forensic/Operation oni.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "073d232015cd52d8",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF forensic/WebNet0.md",
+    "notas-hacking/picoCTF forensic/Disk disk sleuth.md",
+    "notas-hacking/picoCTF forensic/Operation oni.md",
     "notas-hacking/picoCTF forensic/WebNet1.md",
+    "notas-hacking/picoCTF forensic/WebNet0.md",
     "notas-hacking/picoCTF forensic/plantilla.md",
     "notas-hacking/picoCTF forensic/MacroHard WeakEdge.md",
     "notas-hacking/picoCTF forensic/tunn3l v1s10n.md",
@@ -173,8 +175,6 @@
     "notas-hacking/picoCTF/4.6 plumbing.md",
     "notas-hacking/picoCTF/4.5 Permissions.md",
     "notas-hacking/picoCTF/4.4 chrono.md",
-    "notas-hacking/picoCTF/4.3 Based.md",
-    "notas-hacking/picoCTF/4.2 ASCII Numbers.md",
     "notas-hacking/picoCTF/Captura-kali.PNG",
     "notas-hacking/Captura instalacion.PNG",
     "notas-hacking/notas-hacking/retos-bandit/Screenshot 2024-09-08 at 10.32.31 p.m..png",
