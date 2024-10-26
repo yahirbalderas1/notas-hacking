@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/PicoCTF Crypto/waves over lambda.md",
+                "file": "notas-hacking/Examen/Parcial 2/Unminify.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas-hacking/PicoCTF Crypto/waves over lambda.md",
+                "file": "notas-hacking/Examen/Parcial 2/Unminify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas-hacking/PicoCTF Crypto/waves over lambda.md",
+                "file": "notas-hacking/Examen/Parcial 2/Unminify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas-hacking/PicoCTF Crypto/waves over lambda.md"
+                "file": "notas-hacking/Examen/Parcial 2/Unminify.md"
               }
             }
           }
@@ -148,8 +148,23 @@
   },
   "active": "073d232015cd52d8",
   "lastOpenFiles": [
-    "notas-hacking/PicoCTF Crypto/plantilla.md",
+    "notas-hacking/Examen/Parcial 2/IntroToBurp.md",
+    "notas-hacking/Examen/Parcial 2/Unminify.md",
+    "notas-hacking/Examen/Parcial 2/SQLiLite.md",
+    "notas-hacking/Examen/Parcial 2/SQL Direct.md",
+    "notas-hacking/Examen/Parcial 2/Secrets.md",
+    "notas-hacking/Examen/Parcial 2/Search Source.md",
+    "notas-hacking/Examen/Parcial 2/Power Cookie.md",
+    "notas-hacking/Examen/Parcial 2/More SQLi.md",
+    "notas-hacking/Examen/Parcial 2/Local Authorithy.md",
+    "notas-hacking/Examen/Parcial 2/Inspect HTML.md",
+    "notas-hacking/Examen/Parcial 2/Includes.md",
+    "notas-hacking/Examen/Parcial 2/Bookmarklet.md",
     "notas-hacking/PicoCTF Crypto/waves over lambda.md",
+    "notas-hacking/Examen/Parcial 2",
+    "notas-hacking/Examen",
+    "notas-hacking/Sin título.md",
+    "notas-hacking/PicoCTF Crypto/plantilla.md",
     "notas-hacking/PicoCTF Crypto/Tapping.md",
     "notas-hacking/PicoCTF Crypto/la cifra de.md",
     "notas-hacking/PicoCTF Crypto/The numbers.md",
@@ -159,22 +174,9 @@
     "notas-hacking/picoCTF forensic/plantilla.md",
     "notas-hacking/picoCTF forensic/Operation oni.md",
     "notas-hacking/PicoCTF Crypto",
-    "notas-hacking/Sin título.md",
     "notas-hacking/picoCTF/Sin título.md",
     "notas-hacking/picoCTF forensic/Disk disk sleuth.md",
     "notas-hacking/picoCTF forensic/WebNet1.md",
-    "notas-hacking/picoCTF forensic/WebNet0.md",
-    "notas-hacking/picoCTF forensic/MacroHard WeakEdge.md",
-    "notas-hacking/picoCTF forensic/tunn3l v1s10n.md",
-    "notas-hacking/picoCTF forensic/Matryoshka.md",
-    "notas-hacking/picoCTF forensic/Shark on wire 2.md",
-    "notas-hacking/picoCTF forensic/like1000.md",
-    "notas-hacking/picoCTF forensic/Moonwalk.md",
-    "notas-hacking/picoCTF forensic/c0rrupt.md",
-    "notas-hacking/picoCTF forensic/WhitePages.md",
-    "notas-hacking/picoCTF forensic/What Lies Within.md",
-    "notas-hacking/picoCTF forensic/Extensions.md",
-    "notas-hacking/picoCTF forensic/Shark on wire.md",
     "notas-hacking/picoCTF forensic",
     "notas-hacking/picoCTF/Captura-kali.PNG",
     "notas-hacking/Captura instalacion.PNG",
