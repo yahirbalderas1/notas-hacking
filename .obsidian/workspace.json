@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/Examen/Parcial 2/Java Code Analysis.md",
+                "file": "notas-hacking/Examen/Parcial 2/Wireshark twoo twooo two twoo....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Code Analysis"
+              "title": "Wireshark twoo twooo two twoo..."
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas-hacking/Examen/Parcial 2/Java Code Analysis.md",
+                "file": "notas-hacking/Examen/Parcial 2/Wireshark twoo twooo two twoo....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Java Code Analysis"
+              "title": "Enlaces entrantes de Wireshark twoo twooo two twoo..."
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas-hacking/Examen/Parcial 2/Java Code Analysis.md",
+                "file": "notas-hacking/Examen/Parcial 2/Wireshark twoo twooo two twoo....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Java Code Analysis"
+              "title": "Enlaces salientes de Wireshark twoo twooo two twoo..."
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas-hacking/Examen/Parcial 2/Java Code Analysis.md"
+                "file": "notas-hacking/Examen/Parcial 2/Wireshark twoo twooo two twoo....md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Java Code Analysis"
+              "title": "Esquema de Wireshark twoo twooo two twoo..."
             }
           }
         ]
@@ -164,8 +164,27 @@
   },
   "active": "073d232015cd52d8",
   "lastOpenFiles": [
-    "notas-hacking/Examen/Parcial 2/It is my Birthday.md",
+    "notas-hacking/Examen/Parcial 2/st3g0.md",
+    "notas-hacking/Examen/Parcial 2/Wireshark twoo twooo two twoo....md",
+    "notas-hacking/Examen/Parcial 2/Redaction gone wrong.md",
+    "notas-hacking/Examen/Parcial 2/Pitter, Patter, Platters.md",
+    "notas-hacking/Examen/Parcial 2/LookeyHere.md",
+    "notas-hacking/Examen/Parcial 2/Disk Disk sleuth 2.md",
+    "Pasted image 20241026222710.png",
+    "Pasted image 20241026222613.png",
+    "notas-hacking/Examen/Parcial 2/Advanced Potion Making.md",
+    "notas-hacking/Examen/Parcial 2/Secret of the Polyglot.md",
+    "notas-hacking/Examen/Parcial 2/PcapPoisoning.md",
+    "notas-hacking/Examen/Parcial 2/Packets Primer.md",
+    "notas-hacking/Examen/Parcial 2/FindAndOpen.md",
+    "notas-hacking/Examen/Parcial 2/Enhance.md",
+    "notas-hacking/Examen/Parcial 2/Eavesdrop.md",
+    "notas-hacking/Examen/Parcial 2/information.md",
+    "notas-hacking/Examen/Parcial 2/Who are you.md",
+    "notas-hacking/Examen/Parcial 2/Roboto Sans.md",
+    "notas-hacking/Examen/Parcial 2/login.md",
     "notas-hacking/Examen/Parcial 2/Java Code Analysis.md",
+    "notas-hacking/Examen/Parcial 2/It is my Birthday.md",
     "notas-hacking/Examen/Parcial 2/caas.md",
     "notas-hacking/Examen/Parcial 2/Unminify.md",
     "notas-hacking/PicoCTF Crypto/rsa-pop-quiz.md",
@@ -173,25 +192,8 @@
     "notas-hacking/Examen/Parcial 2/IntroToBurp.md",
     "notas-hacking/Examen/Parcial 2/SQLiLite.md",
     "notas-hacking/Examen/Parcial 2/SQL Direct.md",
-    "notas-hacking/Examen/Parcial 2/Secrets.md",
-    "notas-hacking/Examen/Parcial 2/Search Source.md",
-    "notas-hacking/Examen/Parcial 2/Power Cookie.md",
-    "notas-hacking/Examen/Parcial 2/More SQLi.md",
-    "notas-hacking/Examen/Parcial 2/Local Authorithy.md",
-    "notas-hacking/Examen/Parcial 2/Inspect HTML.md",
-    "notas-hacking/Examen/Parcial 2/Includes.md",
-    "notas-hacking/Examen/Parcial 2/Bookmarklet.md",
-    "notas-hacking/PicoCTF Crypto/waves over lambda.md",
     "notas-hacking/Examen/Parcial 2",
     "notas-hacking/Examen",
-    "notas-hacking/Sin título.md",
-    "notas-hacking/PicoCTF Crypto/plantilla.md",
-    "notas-hacking/PicoCTF Crypto/Tapping.md",
-    "notas-hacking/PicoCTF Crypto/la cifra de.md",
-    "notas-hacking/PicoCTF Crypto/The numbers.md",
-    "notas-hacking/PicoCTF Crypto/caesar.md",
-    "notas-hacking/PicoCTF Crypto/13.md",
-    "notas-hacking/PicoCTF Crypto/Easy1.md",
     "notas-hacking/PicoCTF Crypto",
     "notas-hacking/picoCTF forensic",
     "notas-hacking/picoCTF/Captura-kali.PNG",
