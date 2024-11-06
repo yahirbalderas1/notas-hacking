@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF reversing/picker 3.md",
+                "file": "notas-hacking/picoCTF reversing/asm2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "picker 3"
+              "title": "asm2"
             }
           }
         ]
@@ -164,8 +164,11 @@
   },
   "active": "073d232015cd52d8",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF reversing/Picker 1.md",
+    "notas-hacking/picoCTF reversing/asm3.md",
+    "notas-hacking/picoCTF reversing/asm2.md",
+    "notas-hacking/picoCTF reversing/asm1.md",
     "notas-hacking/picoCTF reversing/picker 3.md",
+    "notas-hacking/picoCTF reversing/Picker 1.md",
     "notas-hacking/picoCTF reversing/timer.md",
     "notas-hacking/picoCTF reversing/Safe Opener 2.md",
     "notas-hacking/picoCTF reversing/vaultdoor Training.md",
@@ -190,9 +193,6 @@
     "notas-hacking/Examen/Parcial 2/FindAndOpen.md",
     "notas-hacking/Examen/Parcial 2/Enhance.md",
     "notas-hacking/Examen/Parcial 2/Eavesdrop.md",
-    "notas-hacking/Examen/Parcial 2/information.md",
-    "notas-hacking/Examen/Parcial 2/Who are you.md",
-    "notas-hacking/Examen/Parcial 2/Roboto Sans.md",
     "notas-hacking/Examen/Parcial 2",
     "notas-hacking/Examen",
     "notas-hacking/PicoCTF Crypto",
