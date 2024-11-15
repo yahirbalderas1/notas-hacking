@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF reversing/reverse_cipher.md",
+                "file": "notas-hacking/picoCTF binexp/clutter flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reverse_cipher"
+              "title": "clutter flow"
             }
           }
         ],
@@ -179,8 +179,12 @@
   },
   "active": "2de9979e41fd4130",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF reversing/Need For Speed.md",
+    "notas-hacking/picoCTF binexp/ButterFlow.md",
+    "notas-hacking/picoCTF binexp/clutter flow.md",
     "notas-hacking/picoCTF reversing/reverse_cipher.md",
+    "notas-hacking/picoCTF binexp",
+    "notas-hacking/Sin título.md",
+    "notas-hacking/picoCTF reversing/Need For Speed.md",
     "notas-hacking/picoCTF reversing/GDB Test Drive.md",
     "notas-hacking/picoCTF reversing/Sin nombre",
     "notas-hacking/picoCTF reversing/asm3.md",
@@ -197,7 +201,6 @@
     "notas-hacking/picoCTF reversing/vaultdoor-1.md",
     "notas-hacking/Examen/Parcial 2/Wireshark twoo twooo two twoo....md",
     "notas-hacking/picoCTF reversing",
-    "notas-hacking/Sin título.md",
     "notas-hacking/Examen/Parcial 2/st3g0.md",
     "notas-hacking/Examen/Parcial 2/Redaction gone wrong.md",
     "notas-hacking/Examen/Parcial 2/Pitter, Patter, Platters.md",
@@ -207,8 +210,6 @@
     "Pasted image 20241026222613.png",
     "notas-hacking/Examen/Parcial 2/Advanced Potion Making.md",
     "notas-hacking/Examen/Parcial 2/Secret of the Polyglot.md",
-    "notas-hacking/Examen/Parcial 2/PcapPoisoning.md",
-    "notas-hacking/Examen/Parcial 2/Packets Primer.md",
     "notas-hacking/Examen/Parcial 2",
     "notas-hacking/Examen",
     "notas-hacking/PicoCTF Crypto",
